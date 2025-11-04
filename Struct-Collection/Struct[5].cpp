@@ -6,6 +6,9 @@ struct Grocery {
     std::string name;
     int quantity = 0;
     double price = 0.0;
+
+    Grocery() = default;
+    Grocery(std::string n, int q, double p) : name(n), quantity(q), price(p) {}
 };
 
 void showBasket(const std::vector<Grocery>& items) {

@@ -17,7 +17,7 @@ class Unit {
         unsigned int getUnitHealth() const { return health; }
         unsigned int getUnitDamage() const { return damage; }
         
-        void printInfo() const {
+        void printUnitInfo() const {
             std::cout << "Name: " << name
                       << " | Health: " << health
                       << " | Damage: " << damage << '\n';
@@ -43,7 +43,7 @@ class Building {
         void trainUnit() const {
             std::cout << "Units inside " << name << ":\n";
             for (const auto& unit : vUnit) {
-                unit->printInfo();
+                unit->printUnitInfo();
             }
         }
 };

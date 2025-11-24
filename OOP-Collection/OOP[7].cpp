@@ -21,7 +21,7 @@ class Unit {
             std::cout << "Name: " << name
                       << " | Health: " << health
                       << " | Damage: " << damage << '\n';
-        };
+        }
 };
 
 class Building {

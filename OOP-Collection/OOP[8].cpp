@@ -16,9 +16,7 @@ class Item {
         const std::string& getItemInfo() const { return info; }
     
         void displayItemInfo() const {
-            std::cout << name
-                      << " | Gold Cost: " << cost
-                      << " | " << info << '\n';
+            std::cout << name << " | Gold Cost: " << cost << " | " << info << '\n';
         }
 };
 
@@ -50,7 +48,6 @@ class GoblinMerchant {
 };
 
 int main() {
-
     GoblinMerchant forSale(11);
 
     forSale.addItems({
@@ -68,6 +65,6 @@ int main() {
     });
 
     forSale.displayItemOnSale();
-
+    
     return 0;
 }

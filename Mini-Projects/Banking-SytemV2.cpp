@@ -96,11 +96,14 @@ class Menu {
                       unsigned int accNum;
                       std::string name;
                       float initialBalance;
+                    
                       std::cout << "Enter account number: ";
                       std::cin >> accNum;
                       std::cin.ignore();
+                    
                       std::cout << "Enter owner name: ";
                       std::getline(std::cin, name);
+                    
                       std::cout << "Enter initial balance: ";
                       std::cin >> initialBalance;
   

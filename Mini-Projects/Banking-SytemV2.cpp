@@ -2,7 +2,6 @@
 #include <vector>
 #include <string>
 
-
 class BankAccount {
   private:
       unsigned int accountNumber;

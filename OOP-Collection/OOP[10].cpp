@@ -61,6 +61,11 @@ class Menu {
                     case 4: {
                         break;
                     }
+
+                    default: {
+                        std::cout << "Invalid input\n";
+                        break;
+                    }
                 }
                 std::cout << '\n';
             } while (mainChoice != 4);

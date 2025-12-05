@@ -35,7 +35,7 @@ Projects demonstrating object-oriented programming principles like classes, inhe
 - **OOP_BuildingAndUnitManagement.cpp** – Manage buildings and units in a strategy-style system.
 - **OOP_BuildingAndUnits.cpp** – Simplified version of building and unit management.
 - **OOP_DoorMenu.cpp** – Demonstrates menu navigation using objects.
-- **OOP_GoblinMerchant.cpp** – Simulates a fantasy merchant selling items (WC3-style inspiration).
+- **OOP_GoblinMerchant.cpp** – Simulates a fantasy merchant displaying items (WC3-style inspiration).
 - **OOP_HardenedSkinSimulation.cpp** – Simulates character defense mechanics using OOP.
 - **OOP_HonorStudentManager.cpp** – Manages student records and honor status.
 - **OOP_LibraryManagement.cpp** – Manages books and library users in a console system.

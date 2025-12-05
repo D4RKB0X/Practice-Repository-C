@@ -1,6 +1,6 @@
 # My C++ Projects
 
-Welcome to my collection of C++ projects! These projects reflect my journey learning C++ through both fundamental exercises and creative mini-games inspired by Warcraft 3 and other fantasy themes. The repository is organized into categories for clarity and skill demonstration.
+Welcome to my collection of C++ projects, These projects reflect my journey learning C++ through both fundamental exercises and creative mini-games inspired by Warcraft 3 and other themes. The repository is organized into categories for clarity and skill demonstration.
 
 ---
 

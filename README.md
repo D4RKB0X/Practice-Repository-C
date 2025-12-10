@@ -26,6 +26,7 @@ Small, fun, and practical applications, often inspired by fantasy or game mechan
 - **Rock-Paper-Scissors.cpp** – Classic game implemented in C++.
 - **Spellbook.cpp** – Manages spells and effects in a fantasy-style system.
 - **Tic-Tac-Toe.cpp** – Classic two-player Tic-Tac-Toe game.
+- **WC3-Altar-Of-Heroes.cpp** - Console Warcraft III–style hero manager. Recruit heroes, track stats, and view or search your roster.
 
 ---
 

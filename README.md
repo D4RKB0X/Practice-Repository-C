@@ -42,6 +42,7 @@ Projects demonstrating object-oriented programming principles like classes, inhe
 - **OOP_LibraryManagement.cpp** – Manages books and library users in a console system.
 - **OOP_MarketplaceShuffle.cpp** – Advanced marketplace simulation using OOP structures.
 - **OOP_UnitTrainingSystem.cpp** – Simulates unit training and upgrades.
+- **OOP_UnitUpgradeSimulation.cpp** - Simulation of unit upgrades from Footman to Captain.
 - **OOP_WeaponCombatSystem.cpp** – Simulates combat between units and weapons.
 
 ---

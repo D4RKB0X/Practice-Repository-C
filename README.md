@@ -50,6 +50,7 @@ Projects demonstrating object-oriented programming principles like classes, inhe
 ## 📂 Pointers Collection
 Projects that demonstrate pointer usage, dynamic memory, and memory management.
 
+- **Pointers_ArcherAndMoonwell.cpp** - Moonwell checks food before spawning the Archer unit.
 - **Pointers_AverageCalculator.cpp** – Calculate averages using pointers.
 - **Pointers_FindMinMax.cpp** – Find minimum and maximum values using pointers.
 - **Pointers_PrintAndSwap.cpp** – Demonstrates swapping values using pointers.

@@ -41,6 +41,7 @@ Projects demonstrating object-oriented programming principles like classes, inhe
 - **OOP_HardenedSkinSimulation.cpp** – Simulates character defense mechanics using OOP.
 - **OOP_HonorStudentManager.cpp** – Manages student records and honor status.
 - **OOP_LibraryManagement.cpp** – Manages books and library users in a console system.
+- **OOP_Mages.cpp** - Demonstrating inheritance, polymorphism, and virtual functions.
 - **OOP_MarketplaceShuffle.cpp** – Advanced marketplace simulation using OOP structures.
 - **OOP_UnitTrainingSystem.cpp** – Simulates unit training and upgrades.
 - **OOP_UnitUpgradeSimulation.cpp** - Simulation of unit upgrades from Footman to Captain.

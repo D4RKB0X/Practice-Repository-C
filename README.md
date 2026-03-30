@@ -15,7 +15,7 @@ Projects that focus on array manipulation, searching, and analysis.
 
 ## 📂 Experiment-Collection
 
-This is my personal C++ Laboratory. It’s a space for testing logic, breaking things on purpose, and practicing Modern C++.
+This is my personal C++ Laboratory. It’s a space for testing logic, breaking things on purpose, and practicing C++.
 
 ---
 

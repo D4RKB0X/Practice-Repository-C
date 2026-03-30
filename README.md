@@ -13,6 +13,12 @@ Projects that focus on array manipulation, searching, and analysis.
 
 ---
 
+## 📂 Experiment-Collection
+
+This repository is my personal C++ Proving Grounds. It is a collection of sandbox scripts, architectural experiments, and deep dives into Modern C++ (C++20/23+).
+
+---
+
 ## 📂 Mini Projects
 Small, fun, and practical applications, often inspired by fantasy or game mechanics.
 

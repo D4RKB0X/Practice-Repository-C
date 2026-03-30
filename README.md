@@ -15,7 +15,7 @@ Projects that focus on array manipulation, searching, and analysis.
 
 ## 📂 Experiment-Collection
 
-This repository is my personal C++ Proving Grounds. It is a collection of sandbox scripts, architectural experiments, and deep dives into Modern C++ (C++20/23+).
+This is my personal C++ Laboratory. It’s a space for testing logic, breaking things on purpose, and practicing Modern C++.
 
 ---
 
